@@ -8,6 +8,9 @@ This project demonstrates manual testing and test documentation for an e-commerc
 
 [SauceDemo](https://saucedemo.com)
 
+<img width="1507" height="737" alt="image" src="https://github.com/user-attachments/assets/6ac71829-c8cf-4a1f-8bd2-e8f144a7b3d5" />
+
+
 ## Testing Activities
 
 - Test scenario design
